@@ -1,0 +1,14 @@
+# Default initial positions for robot's ros2_control fake system
+
+initial_positions:
+  joint_needle: 0
+  joint_xy: 0
+  joint_zx: 0
+  link_2_aux_joint: 0
+  link_2_joint: 0
+  link_3_aux_joint: 0
+  link_3_joint: 0
+  link_4_aux_joint: 0
+  link_4_joint: 0
+  link_5_aux_joint: 0
+  link_5_joint: 0
